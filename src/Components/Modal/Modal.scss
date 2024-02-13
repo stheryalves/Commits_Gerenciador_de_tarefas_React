@@ -57,7 +57,10 @@
         cursor: pointer;
     }
 
-    
+    #no:hover {
+        background-color: rgb(15, 101, 214);
+    }
+
 
     #yes {
         background-color: rgba(255, 255, 255, 1);
@@ -65,7 +68,9 @@
         cursor: pointer;
     }
 
-    
+    #yes:hover {
+        background-color: rgb(232, 232, 232);
+    }
 
     .input-container {
         display: flex;
