@@ -1,6 +1,6 @@
 Aplicação desenvolvida para listar, editar, deletar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 
-URL do site:
+URL do site: https://desafio4-sthery-dnc.netlify.app/
 
 Como usar: Como exemplo há uma tarefa pré-definida que você pode usar para editar, deletar ou mudar o status para testar, além de adicionar suas próprias tarefas.
 
